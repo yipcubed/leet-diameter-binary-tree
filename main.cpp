@@ -1,3 +1,7 @@
+// Live coding problems, watch at
+// https://www.twitch.tv/yipcubed
+// https://www.youtube.com/channel/UCTV_UOPu7EWXvYWsBFxMsSA/videos
+
 #include <iostream>
 #include <queue>
 #include <algorithm>
@@ -14,10 +18,6 @@ using namespace std;
   TreeNode *right;
   TreeNode(int x) : val(x), left(NULL), right(NULL) {}
  };
-
-// Live coding problems, watch at
-// https://www.twitch.tv/yipcubed
-// https://www.youtube.com/channel/UCTV_UOPu7EWXvYWsBFxMsSA/videos
 
 
 // tried using map, but not faster!!!
